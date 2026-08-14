@@ -1,0 +1,20 @@
+.DS_Store
+
+# Rust
+target/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Env
+.env
+.nasiko/
